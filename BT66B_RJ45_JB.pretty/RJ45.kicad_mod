@@ -14,32 +14,26 @@
     (tstamp e398e4c4-3e41-4061-a16f-1794dceacca2)
   )
   (fp_rect (start -7.75 -3.38) (end 7.75 9.62) (layer "F.SilkS") (width 0.2) (fill none) (tstamp bddcfa3a-5a77-42a6-afac-09403e50ae29))
-  (pad "" np_thru_hole circle (at -7.5 3.57) (size 2.35 2.35) (drill 2.35) (layers F&B.Cu *.SilkS *.Mask) (tstamp 6a290c1d-578c-4b2a-8898-1d7949866083))
-  (pad "" np_thru_hole circle (at 7.5 3.57) (size 2.35 2.35) (drill 2.35) (layers F&B.Cu *.SilkS *.Mask) (tstamp e7ba8dbe-cdeb-4d44-9c74-38cbc980e08c))
-  (pad "1" thru_hole circle (at 4.445 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp f593a112-fe38-4938-9b54-156dfbe31d58))
-  (pad "2" thru_hole circle (at 3.175 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 6549aa82-1bfd-47fa-8801-c7f60dbdce94))
-  (pad "3" thru_hole circle (at 1.905 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 8aca704e-da11-4750-b308-66361b1b4813))
-  (pad "4" thru_hole circle (at 0.635 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 9c74421f-a0c5-4bec-83ef-fd076ec273f7))
-  (pad "5" thru_hole circle (at -0.635 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp baa9f1e4-8579-4989-a183-771363c878f7))
-  (pad "6" thru_hole circle (at -1.905 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 0034e3d5-a3b5-433f-983a-f72586482f68))
-  (pad "7" thru_hole circle (at -3.175 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 226a7b56-ecc7-4164-8547-5755c308f575))
-  (pad "8" thru_hole circle (at -4.445 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp d6c1e197-64ea-4c9f-a708-308bb6a5325e))
-  (group "" (id bb330933-bfa6-4359-87e5-4e6741219d2e)
+  (pad "" np_thru_hole circle (at -7.5 3.57) (size 2.13 2.13) (drill 2.13) (layers F&B.Cu *.SilkS *.Mask) (tstamp 6a290c1d-578c-4b2a-8898-1d7949866083))
+  (pad "" np_thru_hole circle (at 7.5 3.57) (size 2.13 2.13) (drill 2.13) (layers F&B.Cu *.SilkS *.Mask) (tstamp e7ba8dbe-cdeb-4d44-9c74-38cbc980e08c))
+  (pad "1" thru_hole circle (at 3.57 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 973ccd71-8952-411d-a9cd-a10d8677505f))
+  (pad "2" thru_hole circle (at 2.55 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 454eca01-7f5d-4597-bd48-8523e6a83c0b))
+  (pad "3" thru_hole circle (at 1.53 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 110113d0-87d6-48bc-819b-ccbff4c5ff2a))
+  (pad "4" thru_hole circle (at 0.51 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 491da542-efc2-42c9-8555-ab08c2122cd5))
+  (pad "5" thru_hole circle (at -0.51 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp ffe50352-231b-45f2-8e4d-c49914cb71af))
+  (pad "6" thru_hole circle (at -1.53 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 6d0fd16a-f845-48f8-9288-554887e88017))
+  (pad "7" thru_hole circle (at -2.55 1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 09d272bb-6534-4ff6-9368-1a157a88d46a))
+  (pad "8" thru_hole circle (at -3.57 -1.27 180) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask) (tstamp 3f53ae9e-cdac-4453-a004-5273d2faa392))
+  (group "" (id 7ed0c2ad-e484-48f0-ad03-5e0964b4341f)
     (members
-      6a290c1d-578c-4b2a-8898-1d7949866083
-      e7ba8dbe-cdeb-4d44-9c74-38cbc980e08c
-    )
-  )
-  (group "" (id bf2179a2-373f-4219-88df-41b2ae704237)
-    (members
-      0034e3d5-a3b5-433f-983a-f72586482f68
-      226a7b56-ecc7-4164-8547-5755c308f575
-      6549aa82-1bfd-47fa-8801-c7f60dbdce94
-      8aca704e-da11-4750-b308-66361b1b4813
-      9c74421f-a0c5-4bec-83ef-fd076ec273f7
-      baa9f1e4-8579-4989-a183-771363c878f7
-      d6c1e197-64ea-4c9f-a708-308bb6a5325e
-      f593a112-fe38-4938-9b54-156dfbe31d58
+      09d272bb-6534-4ff6-9368-1a157a88d46a
+      110113d0-87d6-48bc-819b-ccbff4c5ff2a
+      3f53ae9e-cdac-4453-a004-5273d2faa392
+      454eca01-7f5d-4597-bd48-8523e6a83c0b
+      491da542-efc2-42c9-8555-ab08c2122cd5
+      6d0fd16a-f845-48f8-9288-554887e88017
+      973ccd71-8952-411d-a9cd-a10d8677505f
+      ffe50352-231b-45f2-8e4d-c49914cb71af
     )
   )
 )
