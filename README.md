@@ -9,6 +9,5 @@ This is currently untested
 ## License
 
 - This project is licensed under the MIT license
-- [ZiModem](https://github.com/bozimmerman/Zimodem) is licensed under the Apache 2.0 license
 
 
